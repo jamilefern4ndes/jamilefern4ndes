@@ -1,4 +1,4 @@
-## Oii, Sou a Jamile Fernandes, graduanda em Análise e Desenvolvimento de Sistemas!
+## Oii, Sou Jamile Fernandes, graduanda em Análise e Desenvolvimento de Sistemas!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jamile -js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
