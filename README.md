@@ -1,4 +1,8 @@
 ## Oii, Sou Jamile Fernandes, graduanda em Análise e Desenvolvimento de Sistemas!
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamilefern4ndesshow_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilefern4ndes&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jamile -js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
